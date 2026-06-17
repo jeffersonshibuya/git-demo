@@ -1,3 +1,1 @@
-My git demo file
-
-# 1 - adding new line
+My test
